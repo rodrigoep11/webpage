@@ -18,9 +18,9 @@ name: &name "Rodrigo Pérez Ortiz"
 description: &description "Academic website of Rodrigo Pérez Ortiz. Research in machine learning theory, high-dimensional statistics, and statistical physics."
 
 # Replace YOUR_GITHUB_USERNAME
-url: "https://rperezortiz.github.io"
+url: "https://rodrigoep11.github.io"
 baseurl: ""
-repository: "YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.github.io"
+repository: "rodrigoep11/rodrigoep11.github.io"
 
 # Profile sidebar
 author:
